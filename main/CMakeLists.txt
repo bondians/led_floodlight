@@ -1,3 +1,3 @@
 idf_component_register(SRCS "main.c"
-                            "logging"
+                            "logging.c"
                        INCLUDE_DIRS ".")

@@ -7,7 +7,9 @@ This controller is not intended to turn the lamp into a "smart device" that is c
 
 ## Target hardware
 10W RGB LED Flood Light Outdoor, 16 Color Changing RGB Floodlight with Remote, Warm White to Daylight Tunable, IP65 Waterproof 4 Modes Dimmable Stage Lighting with US 3-Plug
+
 [Amazon - econoLED - original but unavailable](https://amazon.com/gp/product/B005KYOE2Q)
+
 [Amazon - Blinngo - alternative, available](https://amazon.com/dp/B01GCDV3Q8)
 
 Target MCU for this project: Espressif ESP32-C3 SoC (RISCV5 core)
